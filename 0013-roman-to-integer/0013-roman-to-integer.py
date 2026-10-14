@@ -9,8 +9,10 @@ class Solution:
         n = len(s)
         
         for i in range(n):
+            # If current numeral is smaller than the next, it's a subtraction case (e.g., IV)
             if i < n - 1 and roman_map[s[i]] < roman_map[s[i+1]]:
                 total -= roman_map[s[i]]
+            # Otherwise, just add the value
             else:
                 total += roman_map[s[i]]
                 
