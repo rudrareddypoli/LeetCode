@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rudrareddypoli/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/rudrareddypoli/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/rudrareddypoli/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/rudrareddypoli/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rudrareddypoli/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rudrareddypoli/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/rudrareddypoli/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
