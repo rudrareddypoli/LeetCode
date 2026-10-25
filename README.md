@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rudrareddypoli/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rudrareddypoli/LeetCode/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/rudrareddypoli/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/rudrareddypoli/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/rudrareddypoli/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/rudrareddypoli/LeetCode/tree/master/0067-add-binary) |
 ## Newton's Method
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rudrareddypoli/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/rudrareddypoli/LeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
