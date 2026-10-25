@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rudrareddypoli/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/rudrareddypoli/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rudrareddypoli/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/rudrareddypoli/LeetCode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rudrareddypoli/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/rudrareddypoli/LeetCode/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/rudrareddypoli/LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
