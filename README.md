@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rudrareddypoli/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rudrareddypoli/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/rudrareddypoli/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/rudrareddypoli/LeetCode/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/rudrareddypoli/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rudrareddypoli/LeetCode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/rudrareddypoli/LeetCode/tree/master/0162-find-peak-element) |
 ## Math
 |  |
 | ------- |
