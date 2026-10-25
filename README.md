@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rudrareddypoli/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rudrareddypoli/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rudrareddypoli/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/rudrareddypoli/LeetCode/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rudrareddypoli/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/rudrareddypoli/LeetCode/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/rudrareddypoli/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/rudrareddypoli/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
